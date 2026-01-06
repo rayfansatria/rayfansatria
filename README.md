@@ -63,17 +63,13 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayfansatria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfansatria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayfansatria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" height="170"/>
-</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayfansatria&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/? username=rayfansatria&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
