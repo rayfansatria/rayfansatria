@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Rayfan Satria
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+awesome+projects+one+commit+at+a+time" alt="Typing SVG" />
