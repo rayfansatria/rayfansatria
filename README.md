@@ -8,11 +8,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technologies you're learning]**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me: **your.email@example.com**
-- ⚡ Fun fact: **I debug with console.log 😄**
+- 💬 Ask me about **Laravel, Flutter, JS**
+- 📫 Reach me: **rayfansatria14@gmail.com**
+- ⚡ Fun fact: **The most handsome programmer on Earth😎**
 
 <br clear="right"/>
 
