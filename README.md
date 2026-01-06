@@ -57,8 +57,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayfansatria&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=rayfansatria&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/? user=rayfansatria&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 <!-- Top Languages -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayfansatria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </div>
