@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/? username=rayfansatria&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-trophies.vercel.app/?username=rayfansatria&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
