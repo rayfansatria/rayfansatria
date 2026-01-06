@@ -53,13 +53,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rayfansatria&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayfansatria&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfansatria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayfansatria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" height="170"/>
 </div>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rayfansatria&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rayfansatria/rayfansatria/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -98,18 +98,16 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayfansatria)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayfansatria14@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rayfansatria&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
