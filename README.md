@@ -83,6 +83,8 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/rayfansatria/web-admin/pull/2) in [rayfansatria/web-admin](https://github.com/rayfansatria/web-admin)
+2. 💪 Opened PR [#2](https://github.com/rayfansatria/web-admin/pull/2) in [rayfansatria/web-admin](https://github.com/rayfansatria/web-admin)
 <!--END_SECTION:activity-->
 
 ---
